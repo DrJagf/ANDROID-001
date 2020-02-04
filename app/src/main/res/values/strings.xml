@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Prueba</string>
+    <string name="action_settings">Settings</string>
+    <string name="register_btn">Registro</string>
+    <string name="login_btn">Login</string>
+    <string name="perfil_btn">Perfil</string>
+</resources>

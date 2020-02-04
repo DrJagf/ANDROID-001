@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126494338134",
+    "firebase_url": "https://weekdiet-3058e.firebaseio.com",
+    "project_id": "weekdiet-3058e",
+    "storage_bucket": "weekdiet-3058e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126494338134:android:b1b11590f9c9648a44dff7",
+        "android_client_info": {
+          "package_name": "com.example.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126494338134-8nqotcij7cvpkemmt61aqqh8a9u2puli.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.prueba",
+            "certificate_hash": "129fa9ad072255d3ea18c71c3d15e413689c43ac"
+          }
+        },
+        {
+          "client_id": "126494338134-b9sovkrhcaf51at5m6c100t26o18k0l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApVJnb0o6EQOtAkquit13So_Rn89c6n_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126494338134-b9sovkrhcaf51at5m6c100t26o18k0l2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
